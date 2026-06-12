@@ -29,6 +29,6 @@ export class Global{
     public edit_ln= "//input[@id='txtEmpLastName']";
     public edit_save = "//input[@id='btnEditPers']";
     public back_button = "//input[@value='Back']";
-    public check_box = "//input[@value='5634']";
+    public check_box = "//input[@value='6387']";
     public delete_button = "//input[@value='Delete']";
 }

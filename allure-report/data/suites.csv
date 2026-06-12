@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10592","TC001_login_logout","chromium","2026-06-06","passed","2026-06-06","","TC001_login_logout.spec.ts","",""
+"","17431","TC_editemp","chromium","2026-06-08","passed","2026-06-08","","TC003_edit_emp.spec.ts","",""
+"","11386","TC001_login_logout","firefox","2026-06-06","passed","2026-06-06","","TC001_login_logout.spec.ts","",""
+"","10959","TC001_login_logout","webkit","2026-06-06","passed","2026-06-06","","TC001_login_logout.spec.ts","",""

@@ -42,4 +42,8 @@ jobs:
         if: always()
         with:
           name: playwright-report
+<<<<<<< HEAD
           path: playwright-report/
+=======
+          path: playwright-report/
+>>>>>>> db8c8a25c3466ff8fe3826a2a650c6e403941083

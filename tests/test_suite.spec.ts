@@ -1,5 +1,5 @@
 import{test} from "@playwright/test"
-import { General } from "../.github/lib/General"
+import { General } from "../lib/General"
 
 // Create suite method 
 test.describe('test_suite',()=>{

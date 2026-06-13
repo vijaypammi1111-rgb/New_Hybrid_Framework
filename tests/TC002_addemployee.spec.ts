@@ -1,6 +1,6 @@
 import{test} from "@playwright/test"
 
-import { General } from "../.github/lib/General"
+import { General } from "../lib/General"
 
 test('TC002_addemployee', async({page})=>{
 
